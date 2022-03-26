@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @John Inyanda Onuh with Registration H20CS020
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning how to develop a software product on GitHub
+- 💞️ I’m looking to collaborate with Experts
+- 📫  reach me @onutechcomputers@gmail.com
